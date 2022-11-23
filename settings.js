@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+1(715)3520265'] // owner number
+global.vcardowner = ['+923172746744'] // owner number
 global.ownername = "FahriyaApple" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+1(715)3520265']
-global.ownertag = '+1(715)3520265' //your tag number
+global.owner = ['+923172746744']
+global.ownertag = '+923172746744' //your tag number
 global.botname = 'FahriyaApple - Bot' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+1(715)3520265'] //ur premium numbers
+global.premium = ['+923172746744'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -66,7 +66,7 @@ global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
